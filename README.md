@@ -9,7 +9,7 @@ Hopefully, some repositories here help you. Keep exploring & enjoy...</h3>
 
 - 📫 How to reach me **ahanafwadudarnob@gmail.com**
 
-- ⚡😃 Fun fact :"I’m a Flutter enthusiast who enjoys turning ideas into sleek, functional apps. I’m always on the lookout for new ways to optimize code  and make user experiences more enjoyable!"
+- ⚡😃 Fun fact :"I love bringing ideas to life with Flutter, one line of code at a time! Always up for creating something fun and useful."
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnab&label=Profile%20views&color=0e75b6&style=flat" alt="arnab" /> </p>
 
