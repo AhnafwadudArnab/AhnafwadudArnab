@@ -14,7 +14,7 @@
 
 💬 Ask me about **C/C++, JAVA, Flutter... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
-⚡ Fun fact **...**
+⚡ Fun fact **I love video games and often draw inspiration from their design and mechanics for my projects!**
 
 </div>
  
