@@ -12,7 +12,7 @@
  
  🔭 Current Project: Working on a Food Delivery App
  
- 🌱 Language Learning: Flutter
+ 🌱 Language Learning: Flutter & MySQL
 
 💬 Ask Me About: C/C++, Java, Flutter
 <br/>
