@@ -2,17 +2,20 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahnaf+Wadud+Arnab!;" />
 </h1>
 
-<h3 align="center">A passionate Front-End Developer </h3>
-
+<h3 align="center">A passionate Front-End Developer
+    <br/>
+<h3 align="center">(3rd Year Computer Science & Engineering Student)
+    </h3>
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **Food Delivery App**
+ 🔭 Current Project: Working on a Food Delivery App
  
- 🌱 I’m currently learning **Flutter**
+ 🌱 Language Learning: Flutter
 
-💬 Ask me about **C/C++, JAVA, Flutter..
+💬 Ask Me About: C/C++, Java, Flutter
+<br/>
 ⚡ Fun fact: **I love video games and often draw inspiration from their design and mechanics for my projects!**
 
 </div>
