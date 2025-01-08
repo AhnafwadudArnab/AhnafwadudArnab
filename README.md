@@ -61,7 +61,7 @@
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&langs_count=5&theme=react&border_radius=10&layout=compact&size_weight=0.5&count_weight=0.5&hide=html,css,javascript,ruby,typescript,shell,swift" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&langs_count=5&theme=react&border_radius=10&layout=compact&size_weight=0.5&count_weight=0.5&hide=" alt="top langs" />
 </div>
 
 <br/><br/>
