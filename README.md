@@ -9,7 +9,7 @@
  
  🔭 Current Project: Working on a Railway System App
  
- 🌱 Language Learning: Flutter , NodeJS & MySQL
+ 🌱 Language Learning:NodeJS & MySQL
 
 💬 Ask Me About: C/C++, Java, Flutter
 <br/>
