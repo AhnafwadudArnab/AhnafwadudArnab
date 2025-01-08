@@ -7,9 +7,9 @@
 
 <div align="center">
  
- 🔭 Current Project: Working on a Food Delivery App
+ 🔭 Current Project: Working on a Railway System App
  
- 🌱 Language Learning: Flutter & MySQL
+ 🌱 Language Learning: Flutter , NodeJS & MySQL
 
 💬 Ask Me About: C/C++, Java, Flutter
 <br/>
