@@ -7,7 +7,7 @@
 
 <div align="center">
  
- 🔭 Current Project: Foodash app
+ 🔭 Current Project: Medical app
  
  🌱 Language Learning: Dart
 
