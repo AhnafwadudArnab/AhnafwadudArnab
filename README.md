@@ -9,7 +9,7 @@
  
  🔭 Current Project: Fitfam (Gym Training App)
  
- 🌱 Language Learning: Dart
+ 🌱 Language Learning: Dart + Python
 
 💬 Ask Me About: C/C++, Java, Flutter, NodeJS & MySQL.
 <br/>
