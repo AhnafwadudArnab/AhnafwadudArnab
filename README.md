@@ -7,7 +7,7 @@
 
 <div align="center">
  
- 🔭 Current Project: Medical app
+ 🔭 Current Project: Fitfam :Gym Training App
  
  🌱 Language Learning: Dart
 
