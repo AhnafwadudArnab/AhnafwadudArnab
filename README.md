@@ -7,9 +7,9 @@
 
 <div align="center">
  
- 🔭 Current Project: Fitfam (Gym Training App)
+ 🔭 Current Project: Canteen App
  
- 🌱 Language Learning: Dart + Python
+ 🌱 Language Learning: Dart + Nodejs
 
 💬 Ask Me About: C/C++, Java, Flutter, NodeJS & MySQL.
 <br/>
