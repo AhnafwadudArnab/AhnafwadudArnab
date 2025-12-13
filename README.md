@@ -7,11 +7,11 @@
 
 <div align="center">
  
- 🔭 Current Project: Canteen App
+ 🔭 Current Project: Diet Planner App
  
- 🌱 Language Learning: Dart + Nodejs
+ 🌱 Language Learning: React Native + Nodejs
 
-💬 Ask Me About: C/C++, Java, Flutter, NodeJS & MySQL.
+💬 Ask Me About: C/C++, Java, Flutter,React-Native, NodeJS & MySQL.
 <br/>
 ⚡ Fun fact: **I love video games and often draw inspiration from their design and mechanics for my projects!**
 
