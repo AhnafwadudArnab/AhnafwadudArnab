@@ -25,7 +25,7 @@
   <a href=" ">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/ahnaf-wadud-arnab-b17b5a26b/" target="_blank">
+  <a href="https://www.linkedin.com/in/ahnaf-wadud-arnab-076657245/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://ahnafwadudarnab.github.io/" target="_blank">
