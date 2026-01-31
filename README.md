@@ -7,9 +7,9 @@
 
 <div align="center">
  
- 🔭 Current Project: Diet Planner App
- 
- 🌱 Language Learning: React Native + Nodejs
+ 💻 Current Project: Building a Website
+
+🌱 Learning Focus: Core Programming Languages
 
 💬 Ask Me About: C/C++, Java, Flutter,React-Native, NodeJS & MySQL.
 <br/>
