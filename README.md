@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="[[https://drive.google.com/file/d/1Qc7KmFEcUOL37_P1isPXxFR70ODiPlKR/view?usp=drive_link](https://drive.google.com/file/d/1Qc7KmFEcUOL37_P1isPXxFR70ODiPlKR/view?usp=sharing)](https://github.com/AhnafwadudArnab/Resume/blob/main/Welcome%20to%20Ahnaf%20Wadud%E2%80%99s%20Github.gif)" alt="Welcome animation" />
+<img width="684" height="238" alt="lcometoNurmuhammetsGithub1-ezgif com-crop" src="https://github.com/AhnafwadudArnab/Resume/blob/main/Welcome%20to%20Ahnaf%20Wadud%E2%80%99s%20Github.gif" />
 </div>
+
+
 
 ---
 
@@ -25,7 +27,7 @@
   <br/>
   
   **Full Stack Developer**  
-  **Flutter / React Native / TypeScript**  
+  **Flutter / React Native / JavaScript**  
   **Modern UI & clean architecture**  
   **Strong GitHub collaboration mindset**
 </div>
@@ -37,13 +39,10 @@
   
   <h3>Core Technologies</h3>
   
-  ![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=flat&logo=javascript&logoColor=white)
   ![C](https://img.shields.io/badge/C-000000?style=flat&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-000000?style=flat&logo=cplusplus&logoColor=white)
   ![Java](https://img.shields.io/badge/JAVA-000000?style=flat&logo=openjdk&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-000000?style=flat&logo=typescript&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GITHUB-000000?style=flat&logo=github&logoColor=white)
   
   <br/>
