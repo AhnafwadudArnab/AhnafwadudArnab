@@ -1,5 +1,5 @@
 <div align="center">
-<img width="684" height="238" alt="lcometoNurmuhammetsGithub1-ezgif com-crop" src="https://github.com/AhnafwadudArnab/Resume/blob/main/animation.gif" />
+<img width="100%" alt="Welcome to Ahnaf Wadud's GitHub" src="https://raw.githubusercontent.com/AhnafwadudArnab/Resume/main/animation.gif" />
 </div>
 
 
