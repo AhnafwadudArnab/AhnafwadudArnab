@@ -1,69 +1,111 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahnaf+Wadud+Arnab!;" />
-
-<h3 align="center">(Computer Science & Engineering Student)
-    </h3>
-<br/>
-
 <div align="center">
- 
- 💻 Current Project: Building a Website
-
-🌱 Learning Focus: Core Programming Languages
-
-💬 Ask Me About: C/C++, Java, Flutter,React-Native, NodeJS & MySQL.
-<br/>
-⚡ Fun fact: **I love video games and often draw inspiration from their design and mechanics for my projects!**
-
-</div>
- 
-<div align="center"> 
-    
-  <a href="https://www.facebook.com/AhnafArNaB10/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href=" ">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/ahnaf-wadud-arnab-076657245/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://ahnafwadudarnab.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
-  </a>
+  <img src="" alt="Welcome animation" />
 </div>
 
-<hr/>
-
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,flutter,dart" />
-    <img src="https://skillicons.dev/icons?i=python,firebase,c,java,mysql,fla" /><br>
-</div>
-
-<br/>
-<hr/>
+---
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <h3>Connect with me</h3>
   
-  <br/><br/><br/>
+  [![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ahnafwadudarnab.github.io/)
+  [![Facebook](https://img.shields.io/badge/FACEBOOK-000000?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/AhnafArNaB10/)
+  [![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahnaf-wadud-arnab-076657245/)
+  [![Gmail](https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 </div>
 
-<hr/>
+---
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=AhnafwadudArnab&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=AhnafwadudArnab&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<div align="center">
+  <h2>About me</h2>
+  
+  Hello, I'm **Ahnaf Wadud Arnab** — a Computer Science & Engineering Student focused on building clean, scalable, and modern web applications.
+  
+  I value structure, performance, and long-term maintainability over hype.
+  
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=AhnafwadudArnab&langs_count=5&theme=react&border_radius=10&layout=compact&size_weight=0.5&count_weight=0.5&hide=" alt="top langs" />
+  
+  **Full Stack Developer**  
+  **Flutter / React Native / TypeScript**  
+  **Modern UI & clean architecture**  
+  **Strong GitHub collaboration mindset**
 </div>
 
-<br/><br/>
+---
 
-<hr/>
+<div align="center">
+  <h2>Technologies</h2>
+  
+  <h3>Core Technologies</h3>
+  
+  ![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=flat&logo=javascript&logoColor=white)
+  ![C](https://img.shields.io/badge/C-000000?style=flat&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-000000?style=flat&logo=cplusplus&logoColor=white)
+  ![Java](https://img.shields.io/badge/JAVA-000000?style=flat&logo=openjdk&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-000000?style=flat&logo=typescript&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GITHUB-000000?style=flat&logo=github&logoColor=white)
+  
+  <br/>
+  
+  <h3>Frameworks & Libraries</h3>
+  
+  ![React](https://img.shields.io/badge/REACT-000000?style=flat&logo=react&logoColor=white)
+  ![React Native](https://img.shields.io/badge/REACT_NATIVE-000000?style=flat&logo=react&logoColor=white)
+  ![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=flat&logo=next.js&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/FLUTTER-000000?style=flat&logo=flutter&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/NODE.JS-000000?style=flat&logo=node.js&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MYSQL-000000?style=flat&logo=mysql&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/FIREBASE-000000?style=flat&logo=firebase&logoColor=white)
+  
+  <br/>
+  
+  <h3>Team Collaboration</h3>
+  
+  Experienced in team development using **GitHub**, pull requests, code reviews, and structured workflows.
+</div>
+
+---
+
+<div align="center">
+  <h2>Statistics</h2>
+  
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h4>Most Used Languages</h4>
+        <img src="https://github-readme-stats-two-beta-28.vercel.app/api/top-langs/?username=AhnafwadudArnab&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8" alt="Top Languages"/>
+      </td>
+      <td width="50%" align="center">
+        <h4>GitHub Stats</h4>
+        <img src="https://github-readme-stats-two-beta-28.vercel.app/api?username=AhnafwadudArnab&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="GitHub Stats"/>
+      </td>
+    </tr>
+  </table>
+  
+  <h3>Contribution Streak</h3>
+  
+  <img src="https://streak-stats.demolab.com?user=AhnafwadudArnab&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff" alt="GitHub Streak"/>
+  
+  <h3>Contribution Graph</h3>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhnafwadudArnab&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=Ahnaf%20Wadud%20Arnab's%20Contribution%20Graph" alt="Activity Graph" width="100%"/>
+</div>
+
+---
+
+<div align="center">
+  <h3>Random Dev Quote</h3>
+  
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+  
+  ---
+  
+  <h3>Visitor Count</h3>
+  
+  ![](https://komarev.com/ghpvc/?username=AhnafwadudArnab&color=000000&style=flat-square&label=Profile+Views)
+  
+  ---
+  
+  <sub>⭐️ From <a href="https://github.com/AhnafwadudArnab">AhnafwadudArnab</a> with ❤️</sub>
+</div>
