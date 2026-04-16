@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AhnafwadudArnab/Resume/main/animation.gif" alt="Welcome to Ahnaf Wadud's GitHub" width="100%" style="max-width: 100%; height: auto;" />
+  <img src="https://raw.githubusercontent.com/AhnafwadudArnab/Resume/main/animation.gif" alt="Welcome to Ahnaf Wadud's GitHub" width="684%" style="max-width: 100%; height: auto;" />
 </div>
 
 ---
