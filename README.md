@@ -1,7 +1,21 @@
+
+
 <div align="center">
 <img width="684" height="238" alt="Welcome to Ahnaf Wadud's GitHub" src="https://raw.githubusercontent.com/AhnafwadudArnab/Resume/main/animation.gif" />
 </div>
 ---
+
+<div align="center">
+
+# Ahnaf Wadud Arnab 🚀
+### Computer Science & Engineering Student | Flutter Developer | Problem Solver
+
+<p>
+Building scalable apps, intelligent systems, and meaningful digital experiences.
+</p>
+
+</div>
+
 
 <div align="center">
   <h3>Connect with me</h3>
@@ -30,35 +44,45 @@
 </div>
 
 ---
-
 <div align="center">
-  <h2>Technologies</h2>
-  
-  <h3>Core Technologies</h3>
-  
-  ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=flat&logo=javascript&logoColor=white)
-  ![C](https://img.shields.io/badge/C-000000?style=flat&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-000000?style=flat&logo=cplusplus&logoColor=white)
-  ![Java](https://img.shields.io/badge/JAVA-000000?style=flat&logo=openjdk&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GITHUB-000000?style=flat&logo=github&logoColor=white)
-  
-  <br/>
-  
-  <h3>Frameworks & Libraries</h3>
-  
-  ![React](https://img.shields.io/badge/REACT-000000?style=flat&logo=react&logoColor=white)
-  ![React Native](https://img.shields.io/badge/REACT_NATIVE-000000?style=flat&logo=react&logoColor=white)
-  ![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=flat&logo=next.js&logoColor=white)
-  ![Flutter](https://img.shields.io/badge/FLUTTER-000000?style=flat&logo=flutter&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/NODE.JS-000000?style=flat&logo=node.js&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MYSQL-000000?style=flat&logo=mysql&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/FIREBASE-000000?style=flat&logo=firebase&logoColor=white)
-  
-  <br/>
-  
-  <h3>Team Collaboration</h3>
-  
-  Experienced in team development using **GitHub**, pull requests, code reviews, and structured workflows.
+
+## ⚡ Technologies & Tools
+
+### 💻 Core Technologies
+
+<img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-000000?style=flat&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-000000?style=flat&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-000000?style=flat&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white"/>
+
+<br/>
+
+### 📱 Frameworks & Platforms
+
+<img src="https://img.shields.io/badge/Flutter-000000?style=flat&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Native-000000?style=flat&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-000000?style=flat&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-000000?style=flat&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-000000?style=flat&logo=arduino&logoColor=white"/>
+
+<br/>
+
+### 🤝 Team Collaboration
+
+Experienced in collaborative software development using:
+
+<img src="https://img.shields.io/badge/GitHub_Workflow-000000?style=flat&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pull_Requests-000000?style=flat&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Code_Reviews-000000?style=flat&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Agile_Workflow-000000?style=flat&logo=jira&logoColor=white"/>
+
 </div>
 
 ---
