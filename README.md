@@ -50,37 +50,61 @@ My work centers on Flutter, React Native, Node.js, Express.js, REST APIs, Fireba
 
 <div align="center">
 
-### Languages
+### Programming Languages
 
-<img src="https://img.shields.io/badge/Dart-000000?style=flat&logo=dart&logoColor=white" alt="Dart" />
-<img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=white" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/C-000000?style=flat&logo=c&logoColor=white" alt="C" />
-<img src="https://img.shields.io/badge/C++-000000?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### Mobile, Frontend & Backend
+### Mobile & Frontend
 
-<img src="https://img.shields.io/badge/Flutter-000000?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
-<img src="https://img.shields.io/badge/React_Native-000000?style=flat&logo=react&logoColor=white" alt="React Native" />
-<img src="https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=white" alt="React" />
-<img src="https://img.shields.io/badge/Node.js-000000?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js" />
-<img src="https://img.shields.io/badge/REST_API-000000?style=flat&logo=fastapi&logoColor=white" alt="REST API" />
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61dafb)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61dafb)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### Database & Tools
+### Backend & APIs
 
-<img src="https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/Firebase-000000?style=flat&logo=firebase&logoColor=white" alt="Firebase" />
-<img src="https://img.shields.io/badge/Supabase-000000?style=flat&logo=supabase&logoColor=white" alt="Supabase" />
-<img src="https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/Android_Studio-000000?style=flat&logo=androidstudio&logoColor=white" alt="Android Studio" />
-<img src="https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=white" alt="Figma" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" />
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Databases & Cloud
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=222)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
+
+<details>
+<summary><b>Core Concepts & Practices</b></summary>
+<br />
+
+| Category | Skills |
+| --- | --- |
+| Core CS | Data Structures · Algorithms · OOP · Database Management |
+| Mobile Engineering | Cross-platform UI · API Integration · State Management · Responsive Layouts |
+| Backend | REST Architecture · Authentication · CRUD Workflows · Server-side Logic |
+| Practices | Git Workflow · Debugging · Clean Architecture · Collaboration |
+
+</details>
 
 ## Certifications & Achievements
 
