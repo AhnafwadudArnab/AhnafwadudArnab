@@ -96,24 +96,54 @@ My work centers on Flutter, React Native, Node.js, Express.js, REST APIs, Fireba
 
 ---
 
-## GitHub Analytics
+## Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats-two-beta-28.vercel.app/api/top-langs/?username=AhnafwadudArnab&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=8" alt="Most used languages" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats-two-beta-28.vercel.app/api?username=AhnafwadudArnab&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="GitHub stats" />
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/AhnafwadudArnab">
+    <img src="https://img.shields.io/github/followers/AhnafwadudArnab?logo=github&logoColor=41c350&labelColor=01102d&color=6eb9f2&style=for-the-badge" alt="GitHub followers" />
+  </a>
 
-  <img src="https://streak-stats.demolab.com?user=AhnafwadudArnab&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff" alt="GitHub contribution streak" />
+  <br />
+  <br />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhnafwadudArnab&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=Ahnaf%20Wadud%20Arnab's%20Contribution%20Graph" alt="GitHub contribution graph" width="100%" />
+  <a href="https://github.com/AhnafwadudArnab">
+    <img src="https://github-readme-stats.vercel.app/api?username=AhnafwadudArnab&show_icons=true&line_height=30&rank_icon=github&theme=algolia" alt="Ahnaf's GitHub stats" />
+  </a>
 </div>
+
+<details open align="center">
+  <summary>More Stats</summary>
+  <br />
+
+  <div align="center">
+    <a href="https://github.com/AhnafwadudArnab">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhnafwadudArnab&theme=algolia" width="100%" alt="Profile details" />
+    </a>
+
+    <br />
+    <br />
+
+    <a href="https://github.com/AhnafwadudArnab">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhnafwadudArnab&theme=algolia" width="31%" align="left" alt="Repos per language" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AhnafwadudArnab&theme=algolia" width="31%" align="right" alt="Most commit language" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AhnafwadudArnab&theme=algolia" width="31%" align="center" alt="Productive time" />
+    </a>
+
+    <br />
+    <br />
+
+    <a href="https://github.com/AhnafwadudArnab">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhnafwadudArnab&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff" width="100%" alt="GitHub activity graph" />
+    </a>
+
+    <br />
+    <br />
+
+    <a href="https://github.com/AhnafwadudArnab">
+      <img src="https://github-profile-trophy.vercel.app/?username=AhnafwadudArnab&column=8&margin-w=20&margin-h=20&no-frame=true&theme=algolia&title=Stars,Followers,MultiLanguage,Repositories,Organizations,Commits,PullRequest,Issues" width="100%" alt="GitHub trophies" />
+    </a>
+  </div>
+</details>
 
 ---
 
