@@ -191,14 +191,6 @@ I am open to freelance work, collaborations, and open-source contributions.
   <sub>Built with focus, clean architecture, and a love for useful software.</sub>
 </div>
 
----
-
-<h3 align="center">Contribution Snake</h3>
-
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhnafwadudArnab/AhnafwadudArnab/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhnafwadudArnab/AhnafwadudArnab/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/AhnafwadudArnab/AhnafwadudArnab/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" width="100%" />
-  </picture>
+  <img src="https://github.com/AhnafwadudArnab/AhnafwadudArnab/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="snake animation" width="100%" />
 </div>
