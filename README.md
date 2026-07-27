@@ -23,25 +23,54 @@
 
 ## About Me
 
-I am a Computer Science & Engineering student at United International University (UIU), Dhaka, focused on cross-platform app development, backend systems, and practical software engineering.
-
-My work centers on Flutter, React Native, Node.js, Express.js, REST APIs, Firebase, and MySQL. I enjoy turning real-world workflows into clean, usable products, from food delivery and railway booking systems to e-commerce and utility apps.
-
-- Based in Dhaka, Bangladesh
-- B.Sc. in CSE, UIU, 2022 - Present
-- Freelance and independent full-stack development experience
-- Interested in mobile app development, software engineering, UI/UX, music, painting, and travel
+<table>
+  <tr>
+    <td width="60%">
+      <b>Computer Science & Engineering student at United International University (UIU), Dhaka.</b>
+      <br />
+      <br />
+      I build cross-platform mobile apps, backend systems, and practical web products with a focus on clean structure, usability, and reliable API-driven workflows.
+      <br />
+      <br />
+      My work centers on <b>Flutter</b>, <b>React Native</b>, <b>Node.js</b>, <b>Express.js</b>, <b>REST APIs</b>, <b>Firebase</b>, and <b>MySQL</b>.
+    </td>
+    <td width="40%">
+      <b>Quick Snapshot</b>
+      <br />
+      <br />
+      Based in Dhaka, Bangladesh
+      <br />
+      B.Sc. in CSE, UIU, 2022 - Present
+      <br />
+      Freelance full-stack development experience
+      <br />
+      Interested in UI/UX, music, painting, and travel
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## What I Build
 
-| Area | Focus |
-| --- | --- |
-| Mobile Apps | Flutter, React Native, responsive UI, state management, API integration |
-| Backend Systems | Node.js, Express.js, REST APIs, authentication, business workflows |
-| Databases | MySQL, Firebase, Supabase, MongoDB, schema design |
-| Frontend | React, JavaScript, clean interfaces, performance-minded web apps |
+<table>
+  <tr>
+    <td width="25%" align="center"><b>Mobile Apps</b></td>
+    <td>Flutter, React Native, responsive UI, state management, and API integration.</td>
+  </tr>
+  <tr>
+    <td width="25%" align="center"><b>Backend Systems</b></td>
+    <td>Node.js, Express.js, REST APIs, authentication, and business workflows.</td>
+  </tr>
+  <tr>
+    <td width="25%" align="center"><b>Databases</b></td>
+    <td>MySQL, Firebase, Supabase, MongoDB, and practical schema design.</td>
+  </tr>
+  <tr>
+    <td width="25%" align="center"><b>Frontend</b></td>
+    <td>React, JavaScript, clean interfaces, and performance-minded web apps.</td>
+  </tr>
+</table>
 
 ---
 
