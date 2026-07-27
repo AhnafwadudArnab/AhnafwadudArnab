@@ -57,22 +57,22 @@
   <tr>
     <td width="25%" align="center"><b>Mobile Apps</b></td>
     <td width="8%" align="center">📱</td>
-    <td>Flutter, React Native, responsive UI, state management, and API integration.</td>
+    <td>Flutter · React Native · API Integration</td>
   </tr>
   <tr>
     <td width="25%" align="center"><b>Backend Systems</b></td>
     <td width="8%" align="center">⚙️</td>
-    <td>Node.js, Express.js, REST APIs, authentication, and business workflows.</td>
+    <td>Node.js · Express.js · REST APIs</td>
   </tr>
   <tr>
     <td width="25%" align="center"><b>Databases</b></td>
     <td width="8%" align="center">🗄️</td>
-    <td>MySQL, Firebase, Supabase, MongoDB, and practical schema design.</td>
+    <td>MySQL · Firebase · Supabase · MongoDB</td>
   </tr>
   <tr>
     <td width="25%" align="center"><b>Frontend</b></td>
     <td width="8%" align="center">🎨</td>
-    <td>React, JavaScript, clean interfaces, and performance-minded web apps.</td>
+    <td>React · JavaScript · UI Development</td>
   </tr>
 </table>
 
