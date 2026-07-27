@@ -1,28 +1,23 @@
 <div align="center">
-  <img width="684" height="238" alt="Welcome to Ahnaf Wadud Arnab's GitHub" src="https://raw.githubusercontent.com/AhnafwadudArnab/Resume/main/animation.gif" />
+  <a href="https://ahnaf-wadud-arnab.vercel.app/">
+    <img src="assets/profile-banner.svg" width="100%" alt="Ahnaf Wadud Arnab profile banner" />
+  </a>
+</div>
 
-  <h1>Ahnaf Wadud Arnab</h1>
-  <h3>Flutter, Mobile & Web, Frontend & Backend Developer</h3>
+<div align="center">
+  <a href="https://fullstackdev-resume.vercel.app/">resume</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:ahanafwadudarnab@gmail.com">email</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ahnaf-wadud-arnab-076657245/">linkedin</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/OTjQKVxs6f/">leetcode</a>
+</div>
 
-  <p>
-    I build production-ready mobile and web applications with clean architecture,
-    reliable backend systems, and polished user experiences.
-  </p>
+<br />
 
-  <p>
-    <a href="https://ahnaf-wadud-arnab.vercel.app/">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="https://fullstackdev-resume.vercel.app/">
-      <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" />
-    </a>
-    <a href="https://www.linkedin.com/in/ahnaf-wadud-arnab-076657245/">
-      <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:ahanafwadudarnab@gmail.com">
-      <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=dart,flutter,react,nodejs,express,firebase,mysql,js,python,java,c,cpp,git,github,figma,vscode,androidstudio,vercel,supabase,mongodb&theme=dark&perline=10" alt="Tech stack icons" />
 </div>
 
 ---

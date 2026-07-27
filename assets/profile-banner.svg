@@ -1,0 +1,65 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1200" y2="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117"/>
+      <stop offset="0.55" stop-color="#111827"/>
+      <stop offset="1" stop-color="#0D1117"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="0.5" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#F97316"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="218" rx="12" fill="url(#panel)" stroke="#30363D" stroke-width="2"/>
+  <circle cx="600" cy="112" r="80" fill="#0EA5E9" opacity="0.06" filter="url(#glow)"/>
+  <circle cx="170" cy="-14" r="70" fill="#F97316" opacity="0.08"/>
+  <circle cx="1030" cy="236" r="95" fill="#8B5CF6" opacity="0.08"/>
+
+  <g opacity="0.92">
+    <rect x="30" y="34" width="72" height="56" rx="10" fill="#111827" stroke="#30363D"/>
+    <text x="66" y="69" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#38BDF8">JS</text>
+    <rect x="116" y="18" width="72" height="56" rx="10" fill="#111827" stroke="#30363D"/>
+    <text x="152" y="53" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#60A5FA">Dart</text>
+    <rect x="202" y="44" width="72" height="56" rx="10" fill="#111827" stroke="#30363D"/>
+    <text x="238" y="79" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#38BDF8">Flutter</text>
+    <rect x="68" y="112" width="72" height="56" rx="10" fill="#111827" stroke="#30363D"/>
+    <text x="104" y="147" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#61DAFB">React</text>
+    <rect x="156" y="132" width="72" height="56" rx="10" fill="#111827" stroke="#30363D"/>
+    <text x="192" y="167" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#34D399">Node</text>
+  </g>
+
+  <g opacity="0.92">
+    <rect x="926" y="34" width="72" height="56" rx="10" fill="#111827" stroke="#30363D"/>
+    <text x="962" y="69" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#F59E0B">SQL</text>
+    <rect x="1012" y="18" width="72" height="56" rx="10" fill="#111827" stroke="#30363D"/>
+    <text x="1048" y="53" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#FFCA28">Firebase</text>
+    <rect x="1098" y="44" width="72" height="56" rx="10" fill="#111827" stroke="#30363D"/>
+    <text x="1134" y="79" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#E34F26">HTML</text>
+    <rect x="972" y="112" width="72" height="56" rx="10" fill="#111827" stroke="#30363D"/>
+    <text x="1008" y="147" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#38BDF8">API</text>
+    <rect x="1060" y="132" width="72" height="56" rx="10" fill="#111827" stroke="#30363D"/>
+    <text x="1096" y="167" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" fill="#A78BFA">Git</text>
+  </g>
+
+  <text x="600" y="78" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="17" fill="#8B949E">
+    Hey, it's me <tspan fill="#F0F6FC" font-weight="700">Ahnaf Wadud Arnab</tspan> and I am a...
+  </text>
+  <text x="600" y="124" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="800" fill="url(#accent)">
+    Flutter, Mobile &amp; Full Stack Developer
+  </text>
+  <text x="600" y="154" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#C9D1D9">
+    Building clean apps, reliable APIs, and polished user experiences.
+  </text>
+
+  <rect x="525" y="176" width="150" height="32" rx="16" fill="#0D1117" stroke="url(#accent)"/>
+  <text x="600" y="197" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#F0F6FC">my portfolio</text>
+</svg>
