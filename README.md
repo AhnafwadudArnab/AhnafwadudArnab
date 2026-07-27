@@ -48,22 +48,27 @@
   <tr>
     <td width="25%" align="center"><b>Mobile Apps</b></td>
     <td width="8%" align="center">📱</td>
-    <td>Flutter · React Native · API Integration</td>
-  </tr>
-  <tr>
-    <td width="25%" align="center"><b>Backend Systems</b></td>
-    <td width="8%" align="center">⚙️</td>
-    <td>Node.js · Express.js · REST APIs</td>
-  </tr>
-  <tr>
-    <td width="25%" align="center"><b>Databases</b></td>
-    <td width="8%" align="center">🗄️</td>
-    <td>MySQL · Firebase · Supabase</td>
+    <td>Flutter · React Native · Clean UI · API Integration</td>
   </tr>
   <tr>
     <td width="25%" align="center"><b>Frontend</b></td>
     <td width="8%" align="center">🎨</td>
-    <td>React · JavaScript · UI Development</td>
+    <td>React · JavaScript · Responsive Web Apps</td>
+  </tr>
+  <tr>
+    <td width="25%" align="center"><b>Backend</b></td>
+    <td width="8%" align="center">⚙️</td>
+    <td>Node.js · Express.js · REST APIs · Authentication</td>
+  </tr>
+  <tr>
+    <td width="25%" align="center"><b>Database</b></td>
+    <td width="8%" align="center">🗄️</td>
+    <td>MySQL · Firebase · Supabase</td>
+  </tr>
+  <tr>
+    <td width="25%" align="center"><b>Full-Stack</b></td>
+    <td width="8%" align="center">🔗</td>
+    <td>End-to-end app flow · Frontend + Backend integration</td>
   </tr>
 </table>
 
