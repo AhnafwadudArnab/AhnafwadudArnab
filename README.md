@@ -204,11 +204,9 @@
 
 I am open to freelance work, collaborations, and open-source contributions.
 
+- Gmail: [ahanafwadudarnab@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=ahanafwadudarnab@gmail.com)
 - Portfolio: [ahnafwadudarnab.github.io](https://ahnafwadudarnab.github.io/)
-- Resume: [fullstackdev-resume.vercel.app](https://fullstackdev-resume.vercel.app/)
-- Frontend Resume: [ahnafresume.vercel.app](https://ahnafresume.vercel.app/)
-- LinkedIn: [linkedin.com/in/ahnaf-wadud-arnab-076657245](https://www.linkedin.com/in/ahnaf-wadud-arnab-076657245/)
-- Email: [ahanafwadudarnab@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=ahanafwadudarnab@gmail.com)
+- Flutter Developer Resume: [fullstackdev-resume.vercel.app](https://fullstackdev-resume.vercel.app/)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AhnafwadudArnab&color=0d1117&style=for-the-badge&label=Profile+Views" alt="Profile views" />
