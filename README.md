@@ -14,12 +14,6 @@
   <a href="https://leetcode.com/u/OTjQKVxs6f/">leetcode</a>
 </div>
 
-<br />
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,react,nodejs,express,firebase,mysql,js,python,java,c,cpp,git,github,figma,vscode,androidstudio,vercel,supabase,mongodb&theme=dark&perline=10" alt="Tech stack icons" />
-</div>
-
 ---
 
 ## About Me
@@ -194,4 +188,10 @@ I am open to freelance work, collaborations, and open-source contributions.
 
   <br />
   <sub>Built with focus, clean architecture, and a love for useful software.</sub>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=dart,flutter,react,nodejs,express,firebase,mysql,js,python,java,c,cpp,git,github,figma,vscode,androidstudio,vercel,supabase,mongodb&theme=dark&perline=10" alt="Tech stack icons" />
 </div>
