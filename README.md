@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://ahnaf-wadud-arnab.vercel.app/">
+  <a href="https://ahnafwadudarnab.github.io/">
     <img src="assets/profile-banner.svg" width="100%" alt="Ahnaf Wadud Arnab profile banner" />
   </a>
 </div>
@@ -159,7 +159,7 @@ My work centers on Flutter, React Native, Node.js, Express.js, REST APIs, Fireba
 
 I am open to freelance work, collaborations, and open-source contributions.
 
-- Portfolio: [ahnaf-wadud-arnab.vercel.app](https://ahnaf-wadud-arnab.vercel.app/)
+- Portfolio: [ahnafwadudarnab.github.io](https://ahnafwadudarnab.github.io/)
 - Resume: [fullstackdev-resume.vercel.app](https://fullstackdev-resume.vercel.app/)
 - Frontend Resume: [ahnafresume.vercel.app](https://ahnafresume.vercel.app/)
 - LinkedIn: [linkedin.com/in/ahnaf-wadud-arnab-076657245](https://www.linkedin.com/in/ahnaf-wadud-arnab-076657245/)
