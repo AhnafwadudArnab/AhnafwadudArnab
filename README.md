@@ -186,9 +186,6 @@ I am open to freelance work, collaborations, and open-source contributions.
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AhnafwadudArnab&color=0d1117&style=for-the-badge&label=Profile+Views" alt="Profile views" />
-
-  <br />
-  <sub>Built with focus, clean architecture, and a love for useful software.</sub>
 </div>
 
 <div align="center">
