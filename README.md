@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://fullstackdev-resume.vercel.app/"><img src="https://img.shields.io/badge/resume-0D1117?style=for-the-badge&logo=readme&logoColor=58A6FF&labelColor=0D1117" alt="Resume" /></a>
-  <a href="mailto:ahanafwadudarnab@gmail.com"><img src="https://img.shields.io/badge/email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0D1117" alt="Email" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahanafwadudarnab@gmail.com"><img src="https://img.shields.io/badge/email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0D1117" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/ahnaf-wadud-arnab-076657245/"><img src="https://img.shields.io/badge/linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0D1117" alt="LinkedIn" /></a>
   <a href="https://leetcode.com/u/OTjQKVxs6f/"><img src="https://img.shields.io/badge/leetcode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0D1117" alt="LeetCode" /></a>
 </div>
@@ -204,7 +204,7 @@ I am open to freelance work, collaborations, and open-source contributions.
 - Resume: [fullstackdev-resume.vercel.app](https://fullstackdev-resume.vercel.app/)
 - Frontend Resume: [ahnafresume.vercel.app](https://ahnafresume.vercel.app/)
 - LinkedIn: [linkedin.com/in/ahnaf-wadud-arnab-076657245](https://www.linkedin.com/in/ahnaf-wadud-arnab-076657245/)
-- Email: [ahanafwadudarnab@gmail.com](mailto:ahanafwadudarnab@gmail.com)
+- Email: [ahanafwadudarnab@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=ahanafwadudarnab@gmail.com)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AhnafwadudArnab&color=0d1117&style=for-the-badge&label=Profile+Views" alt="Profile views" />
