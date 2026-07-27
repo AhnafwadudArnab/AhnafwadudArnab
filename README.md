@@ -156,12 +156,6 @@ My work centers on Flutter, React Native, Node.js, Express.js, REST APIs, Fireba
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhnafwadudArnab&theme=github-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9" width="100%" alt="GitHub activity graph" />
 </a>
 
-<br />
-<br />
-
-<a href="https://github.com/AhnafwadudArnab">
-<img src="https://github-profile-trophy.vercel.app/?username=AhnafwadudArnab&column=8&margin-w=20&margin-h=20&no-frame=true&theme=onestar&title=Stars,Followers,MultiLanguage,Repositories,Organizations,Commits,PullRequest,Issues" width="100%" alt="GitHub trophies" />
-</a>
 </div>
 </details>
 
@@ -199,8 +193,12 @@ I am open to freelance work, collaborations, and open-source contributions.
 
 ---
 
-<h3 align="center">Tools I Work With</h3>
+<h3 align="center">Contribution Snake</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,react,nodejs,express,firebase,mysql,js,python,java,c,cpp,git,github,figma,vscode,androidstudio,vercel,supabase,mongodb&theme=dark&perline=10" alt="Tech stack icons" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhnafwadudArnab/AhnafwadudArnab/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhnafwadudArnab/AhnafwadudArnab/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/AhnafwadudArnab/AhnafwadudArnab/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" width="100%" />
+  </picture>
 </div>
