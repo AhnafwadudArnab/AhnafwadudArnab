@@ -44,7 +44,7 @@
       <br />
       Freelance full-stack development experience
       <br />
-      Interested in UI/UX, music, painting, and travel
+      Interested in frontend, backend, and full-stack product development
     </td>
   </tr>
 </table>
