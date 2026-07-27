@@ -16,9 +16,6 @@
     <a href="https://fullstackdev-resume.vercel.app/">
       <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" />
     </a>
-    <a href="https://ahnafresume.vercel.app/">
-      <img src="https://img.shields.io/badge/Frontend_Resume-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Frontend Resume" />
-    </a>
     <a href="https://www.linkedin.com/in/ahnaf-wadud-arnab-076657245/">
       <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
