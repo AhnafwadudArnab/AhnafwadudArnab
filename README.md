@@ -5,13 +5,18 @@
 </div>
 
 <div align="center">
-  <a href="https://fullstackdev-resume.vercel.app/">resume</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:ahanafwadudarnab@gmail.com">email</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ahnaf-wadud-arnab-076657245/">linkedin</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/OTjQKVxs6f/">leetcode</a>
+  <a href="https://fullstackdev-resume.vercel.app/">
+    <img src="https://img.shields.io/badge/resume-0D1117?style=for-the-badge&logo=readme&logoColor=58A6FF&labelColor=0D1117" alt="Resume" />
+  </a>
+  <a href="mailto:ahanafwadudarnab@gmail.com">
+    <img src="https://img.shields.io/badge/email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0D1117" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahnaf-wadud-arnab-076657245/">
+    <img src="https://img.shields.io/badge/linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0D1117" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/OTjQKVxs6f/">
+    <img src="https://img.shields.io/badge/leetcode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0D1117" alt="LeetCode" />
+  </a>
 </div>
 
 ---
@@ -100,6 +105,8 @@ My work centers on Flutter, React Native, Node.js, Express.js, REST APIs, Fireba
 
 </details>
 
+---
+
 ## Certifications & Achievements
 
 - 1st Runner Up, CSE Project Show Summer 2025, United International University
@@ -113,14 +120,14 @@ My work centers on Flutter, React Native, Node.js, Express.js, REST APIs, Fireba
 
 <div align="center">
 <a href="https://github.com/AhnafwadudArnab">
-<img src="https://img.shields.io/github/followers/AhnafwadudArnab?logo=github&logoColor=white&labelColor=000000&color=24292f&style=for-the-badge" alt="GitHub followers" />
+<img src="https://img.shields.io/github/followers/AhnafwadudArnab?logo=github&logoColor=58A6FF&labelColor=0D1117&color=161B22&style=for-the-badge" alt="GitHub followers" />
 </a>
 
 <br />
 <br />
 
 <a href="https://github.com/AhnafwadudArnab">
-<img src="https://github-readme-stats-two-beta-28.vercel.app/api?username=AhnafwadudArnab&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff" alt="Ahnaf's GitHub stats" />
+<img src="https://github-readme-stats-two-beta-28.vercel.app/api?username=AhnafwadudArnab&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Ahnaf's GitHub stats" />
 </a>
 </div>
 
@@ -146,7 +153,7 @@ My work centers on Flutter, React Native, Node.js, Express.js, REST APIs, Fireba
 <br />
 
 <a href="https://github.com/AhnafwadudArnab">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhnafwadudArnab&theme=github-dark&hide_border=true&area=true&bg_color=0d1117&color=ffffff&line=ffffff&point=c9d1d9" width="100%" alt="GitHub activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhnafwadudArnab&theme=github-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9" width="100%" alt="GitHub activity graph" />
 </a>
 
 <br />
@@ -164,10 +171,10 @@ My work centers on Flutter, React Native, Node.js, Express.js, REST APIs, Fireba
 
 <p>
   <a href="https://www.hackerrank.com/profile/ahanafwadudarnob">
-    <img src="https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+    <img src="https://img.shields.io/badge/HackerRank-0D1117?style=for-the-badge&logo=hackerrank&logoColor=00EA64" alt="HackerRank" />
   </a>
   <a href="https://leetcode.com/u/OTjQKVxs6f/">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
   </a>
 </p>
 
@@ -184,13 +191,15 @@ I am open to freelance work, collaborations, and open-source contributions.
 - Email: [ahanafwadudarnab@gmail.com](mailto:ahanafwadudarnab@gmail.com)
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AhnafwadudArnab&color=000000&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=AhnafwadudArnab&color=0d1117&style=for-the-badge&label=Profile+Views" alt="Profile views" />
 
   <br />
   <sub>Built with focus, clean architecture, and a love for useful software.</sub>
 </div>
 
 ---
+
+<h3 align="center">Tools I Work With</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=dart,flutter,react,nodejs,express,firebase,mysql,js,python,java,c,cpp,git,github,figma,vscode,androidstudio,vercel,supabase,mongodb&theme=dark&perline=10" alt="Tech stack icons" />
