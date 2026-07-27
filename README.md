@@ -36,7 +36,6 @@ My work centers on Flutter, React Native, Node.js, Express.js, REST APIs, Fireba
 - Based in Dhaka, Bangladesh
 - B.Sc. in CSE, UIU, 2022 - Present
 - Freelance and independent full-stack development experience
-- Currently researching federated, explainable, and quantized brain tumor detection using machine learning
 - Interested in mobile app development, software engineering, UI/UX, music, painting, and travel
 
 ---
@@ -49,7 +48,6 @@ My work centers on Flutter, React Native, Node.js, Express.js, REST APIs, Fireba
 | Backend Systems | Node.js, Express.js, REST APIs, authentication, business workflows |
 | Databases | MySQL, Firebase, Supabase, MongoDB, schema design |
 | Frontend | React, JavaScript, clean interfaces, performance-minded web apps |
-| Research | Python, OpenCV, machine learning, medical imaging, explainable AI |
 
 ---
 
@@ -88,57 +86,6 @@ My work centers on Flutter, React Native, Node.js, Express.js, REST APIs, Fireba
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" />
 
 </div>
-
----
-
-## Featured Projects
-
-### Foodash - Food Delivery App
-
-Full-stack food delivery app with restaurant browsing, menu exploration, cart management, order placement, authentication, and restaurant-side operations.
-
-**Stack:** Flutter, Node.js, Firebase, MySQL  
-**Code:** [Foodash Repository](https://github.com/AhnafwadudArnab/Foodash_--_Food_Delivery_App)
-
-### Amar Rail Sheba - Railway Management System
-
-Railway booking platform with train search, route information, schedule browsing, seat selection, ticket reservation, and structured booking flows.
-
-**Stack:** Flutter, Node.js, MySQL  
-**Live:** [amar-rail-sheba.vercel.app](https://amar-rail-sheba.vercel.app/)  
-**Code:** [Amar Rail Sheba Repository](https://github.com/AhnafwadudArnab/Amar-Rail-sheba)
-
-### ElectroZoneBD - Online Electronics Shop
-
-E-commerce application with product browsing, search, cart management, order placement, PHP REST APIs, and MySQL-backed product/customer data.
-
-**Stack:** Flutter, PHP, MySQL  
-**Live:** [electrozonebd.com](https://electrozonebd.com/)  
-**Code:** [ElectroZoneBD Repository](https://github.com/AhnafwadudArnab/Electrozonebd)
-
-### BiteRight App - Nutrition Tracker
-
-Cross-platform nutrition tracking application with meal logging, food history, user profiles, and nutrition record management.
-
-**Stack:** React Native, Node.js, MySQL  
-**Code:** [BiteRight Repository](https://github.com/AhnafwadudArnab/Biteright_app)
-
-### Face Detection App
-
-Camera-based face detection app connecting a Flutter frontend with a Python/OpenCV backend through RESTful API endpoints.
-
-**Stack:** Flutter, Python, OpenCV  
-**Code:** [Face Detection Repository](https://github.com/AhnafwadudArnab/FACE_DETECTION_APP)
-
----
-
-## Research
-
-### Advanced Federated, Explainable, and Quantized Brain Tumor Detection System
-
-Research in progress at UIU focused on machine learning for medical imaging and clinical decision support. The project explores brain tumor detection from MRI scans using Python, OpenCV, deep learning, explainable AI, and resource-efficient model design.
-
----
 
 ## Certifications & Achievements
 
@@ -185,7 +132,7 @@ Research in progress at UIU focused on machine learning for medical imaging and 
 
 ## Contact
 
-I am open to freelance projects, collaborations, research work, and open-source contributions.
+I am open to freelance work, collaborations, and open-source contributions.
 
 - Portfolio: [ahnaf-wadud-arnab.vercel.app](https://ahnaf-wadud-arnab.vercel.app/)
 - Resume: [fullstackdev-resume.vercel.app](https://fullstackdev-resume.vercel.app/)
