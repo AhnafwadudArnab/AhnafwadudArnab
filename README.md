@@ -44,7 +44,7 @@
       <br />
       Freelance full-stack development experience
       <br />
-      Interested in <b>frontend</b>, backend, and <b>full-stack</b> product development
+      Interested in working as a <b>Frontend Developer</b> or <b>Full-Stack Developer</b>
     </td>
   </tr>
 </table>
