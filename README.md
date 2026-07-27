@@ -16,6 +16,9 @@
     <a href="https://fullstackdev-resume.vercel.app/">
       <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" />
     </a>
+    <a href="https://ahnafresume.vercel.app/">
+      <img src="https://img.shields.io/badge/Frontend_Resume-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Frontend Resume" />
+    </a>
     <a href="https://www.linkedin.com/in/ahnaf-wadud-arnab-076657245/">
       <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
@@ -136,6 +139,7 @@ I am open to freelance work, collaborations, and open-source contributions.
 
 - Portfolio: [ahnaf-wadud-arnab.vercel.app](https://ahnaf-wadud-arnab.vercel.app/)
 - Resume: [fullstackdev-resume.vercel.app](https://fullstackdev-resume.vercel.app/)
+- Frontend Resume: [ahnafresume.vercel.app](https://ahnafresume.vercel.app/)
 - LinkedIn: [linkedin.com/in/ahnaf-wadud-arnab-076657245](https://www.linkedin.com/in/ahnaf-wadud-arnab-076657245/)
 - Email: [ahanafwadudarnab@gmail.com](mailto:ahanafwadudarnab@gmail.com)
 
