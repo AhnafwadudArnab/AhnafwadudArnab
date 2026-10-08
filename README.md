@@ -26,7 +26,7 @@
       My work centers on <b>Flutter</b>, <b>React Native</b>, <b>Node.js</b>, <b>Express.js</b>, <b>REST APIs</b>, <b>Firebase</b>, and <b>MySQL</b>.
     </td>
     <td width="40%">
-      <b>Quick Snapshot</b>
+      <!-- <b>Quick Snapshot</b> -->
       <br />
       <br />
       Based in Dhaka, Bangladesh
